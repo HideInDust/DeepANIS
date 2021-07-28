@@ -1,0 +1,2 @@
+Keras>=2.0.8
+numpy

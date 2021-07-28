@@ -1,0 +1,17 @@
+Metadata-Version: 1.2
+Name: keras-transformer
+Version: 0.1.dev17+gb9d4e76
+Summary: Library for building (Universal) Transformer models using Keras
+Home-page: https://github.com/kpot/keras-transformer
+Author: Kirill Mavreshko
+Author-email: kimavr@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: development
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6.0
