@@ -15,7 +15,7 @@ Predicting antibody paratope by bidirectional long-short-term memory neural netw
 
 277 antibody/antigen complexes -> 277 concatenated CDR sequences.
 
-can be refered in the 'DeepANIS/data/'.
+can be refered in the './Data/'.
 
 ## Preprocess
 
@@ -34,7 +34,7 @@ The trained models can be refered in the `./trained_model/<model>`.
 ## Predicting
 
 We provide a example using sequence_model. You can predict paratope using:
-`python .py`
+`python predict.py`
 
 ## Example output
 
