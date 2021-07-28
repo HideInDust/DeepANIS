@@ -25,7 +25,7 @@ Then install keras_transformer:
 `cd keras_transformer`
 `python setup.py install`
 
-In the folder `./data`, we have preprocessed dataset by the corresponding jupyter notebook. All source datasets can be refered in the `./data/source/`, and all preprocess files can be refered in the `./Data/preprocess/`.
+All source datasets can be refered in the `./Data/source/`, and all preprocess files can be refered in the `./Data/preprocess/`.
 
 ## Models
 
