@@ -38,7 +38,7 @@ We provide a example using sequence_model. You can predict paratope using:
 
 ## Example output
 
-Input:
+Input example: (PDB id: 1bgx)
 
 `Heavy chain:` 
 
@@ -56,7 +56,7 @@ Output:
 
 ## Webserver
 
-`https://biomed.nscc-gz.cn:9094/apps/DeepANIS`
+`https://biomed.nscc-gz.cn/apps/DeepANIS`
 
 
 
