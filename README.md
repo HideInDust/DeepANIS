@@ -22,7 +22,9 @@ can be refered in the './Data/'.
 You can download the source dataset from SAbDab (http://opig.stats.ox.ac.uk/webapps/newsabdab/sabdab/).
 
 Then install keras_transformer:
+
 `cd keras_transformer`
+
 `python setup.py install`
 
 All source datasets can be refered in the `./Data/source/`, and all preprocess files can be refered in the `./Data/preprocess/`.
