@@ -1,6 +1,7 @@
 # DeepANIS
 
-Predicting antibody paratope by bidirectional long-short-term memory neural networks and transformer encoder with concatenated CDR sequences （BIBM 2021）
+Predicting antibody paratope by bidirectional long-short-term memory neural networks and transformer encoder with concatenated CDR sequences （**BIBM 2021**）
+
 `https://ieeexplore.ieee.org/document/9669631`
 
 ## Dependencies
